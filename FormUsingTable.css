@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: yellow;
+}
+
+div {
+    width: max-content;
+    border: double white 5px;
+    margin-left: 40%;
+    margin-top: 10%;
+    padding: 10px;
+}
+
+table {
+    margin-top: 10%;
+}
+
+tr {
+    margin-bottom: 10%;
+}
+
+p {
+    font-weight: bold;
+}
+
+hr {
+    color: yellow;
+}
